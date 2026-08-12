@@ -116,8 +116,20 @@ This dashboard shows the UK employment data based on average percentage, employm
 
 <img width="1821" height="1724" alt="Dashboard Spotify data" src="https://github.com/user-attachments/assets/0b96649d-1b73-447d-84cd-463d490dfc48" />
 
-This dashboard shows the spotify data in regards to average tempo, average popularity and median danceability 
+This dashboard shows the Spotify data in regards to average tempo, average popularity and median danceability 
 
 <img width="1821" height="2699" alt="Dashboard Health data" src="https://github.com/user-attachments/assets/dd83bcce-462c-49b3-9042-e8149b19e700" />
 
 This shows the health data according to population, gender and life expectancy
+
+# My Employment data Dashboard
+
+[Link to my Dashboard](https://public.tableau.com/views/GBEmploymentresultsandfindings/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+# My Spotify data Dashboard
+
+[Link to my Dashboard](https://public.tableau.com/views/Spotifydataresults/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+# My Health data Dashboard
+
+[Link to my Dashbaord](https://public.tableau.com/views/Healthdataworkbook/GlobalHealthInsights?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
